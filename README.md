@@ -6,7 +6,7 @@
 
 整体架构预览
 
-![pic](./figs/DSGNet.jpg)
+![pic](./figs/dsgnet.svg)
 
 模块细节
 
