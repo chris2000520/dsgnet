@@ -8,9 +8,6 @@
 
 ![pic](./figs/dsgnet.svg)
 
-模块细节
-
-![pic](./figs/AGF.jpg)
 
 在自动驾驶数据集上的效果对比图
 
